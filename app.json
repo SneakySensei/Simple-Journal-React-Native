@@ -24,6 +24,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "Single screen app made to try out react native. Learning from expo and react-native docs.",
+    "githubUrl": "https://github.com/sneakySensei/Simple-Journal-React-Native"
   }
 }
